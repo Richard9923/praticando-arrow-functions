@@ -40,6 +40,7 @@ const listaTarefas = {
   horarios: [],
 };
 
+/* rodando o programa */
 while (programaOn == true) {
   let inputUsuario = input();
   rodandoApp(inputUsuario);
